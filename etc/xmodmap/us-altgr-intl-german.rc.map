@@ -1,3 +1,5 @@
 keycode  58 = nul
 keycode  52 = y Y z Z ae AE
 keycode  29 = z Z y Y udiaeresis Udiaeresis U0292 yen
+keycode 49 = backslash bar backslash bar backslash bar backslash bar backslash bar backslash bar
+keycode 94 = grave asciitilde grave asciitilde dead_grave dead_tilde dead_grave dead_tilde grave asciitilde dead_grave dead_tilde
