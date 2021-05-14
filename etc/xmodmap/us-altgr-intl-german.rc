@@ -69,5 +69,5 @@ keycode  65 = space NoSymbol U2423 U00A0 space
 ! D630:
 keycode 52 = y Y z Z ae AE
 keycode 29 = z Z y Y udiaeresis Udiaeresis U0292 yen
-keycode 49 = backslash bar backslash bar backslash bar backslash bar backslash bar backslash bar
-keycode 94 = grave asciitilde grave asciitilde dead_grave dead_tilde dead_grave dead_tilde grave asciitilde dead_grave dead_tilde
+!keycode 49 = backslash bar backslash bar backslash bar backslash bar backslash bar backslash bar
+!keycode 94 = grave asciitilde grave asciitilde dead_grave dead_tilde dead_grave dead_tilde grave asciitilde dead_grave dead_tilde

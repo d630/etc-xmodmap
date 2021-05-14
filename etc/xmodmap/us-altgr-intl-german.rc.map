@@ -1,4 +1,4 @@
 keycode  44 = y Y z Z
 keycode  21 = z Z y Y
-keycode 41 = backslash bar backslash bar backslash bar backslash bar backslash bar backslash bar
-keycode 86 = grave asciitilde grave asciitilde dead_grave dead_tilde dead_grave dead_tilde grave asciitilde dead_grave dead_tilde
+!keycode 41 = backslash bar backslash bar backslash bar backslash bar backslash bar backslash bar
+!keycode 86 = grave asciitilde grave asciitilde dead_grave dead_tilde dead_grave dead_tilde grave asciitilde dead_grave dead_tilde
